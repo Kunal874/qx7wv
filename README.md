@@ -4,7 +4,7 @@ A web app for a GB energy supplier's day-ahead trading team. It shows **the wind
 available when the day-ahead purchase decision had to be made**, and **how wrong that forecast turned out to
 be**, so the team can size how much extra power to buy.
 
-**Live app:** _<add your Vercel URL here>_
+**Live app:** https://qx7wv.vercel.app
 
 Scope (as specified): national GB wind only, Elexon BMRS data only, purchase decisions made in **January 2026**.
 
